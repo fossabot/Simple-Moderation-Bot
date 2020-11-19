@@ -1,0 +1,5 @@
+PREFIX: "-"
+OWNER_ID: ""
+TOKEN: ""
+STATUS_TEXT: ""
+STATUS_TYPE: "Default"
